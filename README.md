@@ -5,8 +5,9 @@
 
   Here is the deployed application on Heroku: [Fitness Tracker](https://fitness-tracker-wilsoncollin7.herokuapp.com/?id=5f9074f7657ae30017bd0fa4)
 
-  <img width="300" src="./public/images/snap.JPG">
   <img width="800" src="./public/images/graphs.JPG">
+  <img width="300" src="./public/images/snap.JPG">
+
 
   ## Table of Contents
 
