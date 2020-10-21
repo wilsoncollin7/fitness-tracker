@@ -19,7 +19,7 @@ body {
 nav {
   background-color: #5793fd;
   color: #ffffff;
-  height: 80px;
+  height: 100pxpx;
   padding: 10px;
   line-height: 3;
   font-size: 1.2rem;
@@ -46,6 +46,12 @@ header {
 
 header h1 {
   transform: skewX(-2deg);
+}
+
+#brand {
+  margin-right: 20px;
+  font-size: 30px;
+  padding: 5px;
 }
 
 select {
